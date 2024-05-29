@@ -27,7 +27,7 @@ Posteriormente se  podrá ejecutar el script.
 ./scanrun.sh
 
 
-El escript contiene las siguiente opciones para realizar los escaneos.
+El script contiene las siguiente opciones para realizar los escaneos.
 
 1) Escaneo rapido (ruidoso)
 2) Escaneo Normal
